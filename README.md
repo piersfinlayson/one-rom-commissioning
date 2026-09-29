@@ -1,5 +1,3 @@
 # one-rom-commissioning
 
-This repo holds lists of all One ROMs signed by piers.rocks.  The information provided includes:
-- Serial number (RP2350 chip ID)
-- A hash of the signature, so board details cannot be reverse engineered
+This repo holds a hash of the signature of all One ROM's signed by piers.rocks.
